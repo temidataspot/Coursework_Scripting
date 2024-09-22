@@ -2,7 +2,7 @@
 
 It is important to note that this project was carried out in the Google Environment using AppScript
 
-```
+```javascript
 var SPREADSHEET_ID = 'GoogleSheet_ID'; 
 
 function logStartTime(email) {
