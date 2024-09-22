@@ -11,4 +11,4 @@ This project is grouped into five categories:
 - [Logging form submission times](https://github.com/temidataspot/Coursework_Scripting/blob/main/Tracking%20Form%20Opening%20and%20Submission%20TImes.md)
 - [Tracking students' reading times](https://github.com/temidataspot/Coursework_Scripting/blob/main/Reading%20Time%20Tracker.md)
 
-Read detailed project on [Medium]().
+Read detailed project on [Medium](https://medium.com/@temiloluwa.jokotola/automating-coursework-submission-using-javascript-68d766c70333).
