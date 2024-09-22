@@ -6,6 +6,6 @@ In this project, coursework reading, quiz and assignments submitted by students 
 This project is grouped into five categories:
 - [Tracking the time student opens the course form]()
 - [Logging form submission times]()
-- [Tracking students' reading times]()
+- [Tracking students' reading times](https://github.com/temidataspot/Coursework_Scripting/blob/main/Reading%20Time%20Tracker.md)
 
 Read detailed project on [Medium]().
